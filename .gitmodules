@@ -2,3 +2,6 @@
 	path = support/wheat
 	url = http://github.com/temsa/wheat.git
 
+[submodule "themes"]
+	path = themes
+	url = https://pullrequest-org@github.com/pullrequest-org/wheats.git
