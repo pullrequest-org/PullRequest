@@ -1,0 +1,3 @@
+[submodule "support/wheat"]
+	path = support/wheat
+	url = http://github.com/temsa/wheat.git
